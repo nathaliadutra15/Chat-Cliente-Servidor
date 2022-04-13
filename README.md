@@ -1,0 +1,2 @@
+# Chat desenvolvido em Java - trabalhando os conceitos de Cliente-Servidor
+Projeto desenvolvido em aula na disciplina Sistemas Distribuídos, com o objetivo de trabalhar os conceitos do modelo cliente-servidor e as etapas dentro de uma conexão TCP. A aplicação foi desenvolvida em Java com o objetivo de realizar uma conexão entre dois Hosts e permitir a troca de mensagens, no caso, o lado do cliente envia as mensagem para o lado do servidor, onde pode ser visualizada as mensagens enviadas.
